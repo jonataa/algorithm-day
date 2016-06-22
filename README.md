@@ -1,6 +1,8 @@
 # Algoritmo do Dia
 
-## #1 - Jokenpo
+Uma maneira divertida de treinar seu raciocínio lógico e suas habilidades com programação. Escolha uma linguagem e vem com a gente! :)
+
+## Desafio #1 - Jokenpo
 
 Jokenpo é uma brincadeira japonesa, onde dois jogadores escolhem um dentre três possíveis itens: Pedra, Papel ou Tesoura.  
 O objetivo é fazer um juiz de Jokenpo que dada a jogada dos dois jogadores informa o resultado da partida.
